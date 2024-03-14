@@ -1,5 +1,5 @@
 # University-Projects
-As a current student at Babes Bolyai University in Cluj-Napoca, I am currently in my 4th semester pursuing a Bachelor's degree. Throughout these years, I have gained various knowledge regarding several concepts of Computer Science as a whole:
+As a student at Babes Bolyai University in Cluj-Napoca, I am currently in my 4th semester pursuing a Bachelor's degree. Throughout these years, I have gained various knowledge regarding several concepts of Computer Science as a whole:
 * 1st Semester: 
   * [Fundamentals of Programming (with Python)](https://github.com/Octavian-Gheorghe/University-Projects---1st-Semester/tree/8cb80f495d9862a314b8201bb3d8826a8af4d3b1/1st%20Semester/Fundamentals%20of%20Programming)
   * [Computer System Architecture](https://github.com/Octavian-Gheorghe/University-Projects---1st-Semester/tree/8cb80f495d9862a314b8201bb3d8826a8af4d3b1/1st%20Semester/Assembly)
