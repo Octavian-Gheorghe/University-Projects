@@ -20,7 +20,7 @@ As a current student at Babes Bolyai University in Cluj-Napoca, I am currently i
   * [Functional and Logical Programming](https://github.com/Octavian-Gheorghe/University-Projects---3rd-Semester/tree/85ff7aabda63927b36c1bdedbd528a2256333b40/Functional%20and%20Logic%20Programming)
   * English
 
-Now, in my 4th Semester, I am currently Studying:
+Now, in my 4th Semester, I am currently studying:
   * [Software Engineering (with C#)](https://github.com/Octavian-Gheorghe/University-Projects---4th-Semester/tree/8c1c8734cb3aa8b62d96e2a6333c1566598501a8/Software%20Engineering)
   * Systems for Design and Implementation (frontend: JavaScript with React)
   * [Artificial Inteligence](https://github.com/Octavian-Gheorghe/University-Projects---4th-Semester/tree/8c1c8734cb3aa8b62d96e2a6333c1566598501a8/Artificial%20Intelligence)
