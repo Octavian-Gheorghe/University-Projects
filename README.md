@@ -1,7 +1,7 @@
 # University-Projects
 As a student at Babeș-Bolyai University in Cluj-Napoca, I am currently in my 4th semester pursuing a Bachelor's degree. Throughout these years, I have gained various knowledge regarding several concepts of Computer Science as a whole, such as:
 * 1st Semester: 
-  * [Fundamentals of Programming (with Python)](https://github.com/Octavian-Gheorghe/University-Projects---1st-Semester/tree/8cb80f495d9862a314b8201bb3d8826a8af4d3b1/1st%20Semester/Fundamentals%20of%20Programming)
+  * [Fundamentals of Programming (with Python)]([https://github.com/Octavian-Gheorghe/University-Projects---1st-Semester/tree/8cb80f495d9862a314b8201bb3d8826a8af4d3b1/1st%20Semester/Fundamentals%20of%20Programming](https://github.com/Octavian-Gheorghe/University-Projects---1st-Semester/tree/415b41e01e19faabd4cb55792635243e576a8a46/1st%20Semester/Fundamentals%20of%20Programming))
   * [Computer System Architecture](https://github.com/Octavian-Gheorghe/University-Projects---1st-Semester/tree/8cb80f495d9862a314b8201bb3d8826a8af4d3b1/1st%20Semester/Assembly)
   * Computational Logic
   * Algebra
