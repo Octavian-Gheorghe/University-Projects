@@ -22,7 +22,7 @@ As a student at Babeș-Bolyai University in Cluj-Napoca, I am currently in my 4t
 
 Now, in my 4th Semester, I am currently studying:
   * [Software Engineering (with C#)](https://github.com/Octavian-Gheorghe/University-Projects---4th-Semester/tree/8c1c8734cb3aa8b62d96e2a6333c1566598501a8/Software%20Engineering)
-  * Systems for Design and Implementation (frontend: JavaScript with React)
+  * [Systems for Design and Implementation (frontend: JavaScript with React)](https://github.com/Octavian-Gheorghe/University-Projects---4th-Semester/tree/38b01b81472f513861de1cc5a07400cc08722ffa/MPP)
   * [Artificial Inteligence](https://github.com/Octavian-Gheorghe/University-Projects---4th-Semester/tree/8c1c8734cb3aa8b62d96e2a6333c1566598501a8/Artificial%20Intelligence)
   * Database Management Systems
   * [Web Programming](https://github.com/Octavian-Gheorghe/University-Projects---4th-Semester/tree/8c1c8734cb3aa8b62d96e2a6333c1566598501a8/Web%20Programming)
